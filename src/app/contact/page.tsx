@@ -40,7 +40,7 @@ export default function Contact() {
               <ContactItem
                 icon={<Mail className="h-6 w-6 text-primary" />}
                 title="Email Us"
-                content="support@invix.ai"
+                content="support.invix@gmail.com"
                 description="We'll respond within 24 hours."
               />
               <ContactItem
